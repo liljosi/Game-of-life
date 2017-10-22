@@ -1,0 +1,17 @@
+img{
+	height: 300px; 
+	margin-left: 500px; 
+	margin-top: 170px;
+}
+
+h2{
+	color: white; 
+	margin-left: 535px;
+}
+
+canvas{
+	height: 500px; 
+	width: 500px; 
+	margin-left: 900px;
+	margin-top: 50px;
+}
